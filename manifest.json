@@ -1,0 +1,39 @@
+{
+    "name": "#CVObedLoga",
+    "short_name": "#CVObedLoga",
+    "description": "Bienvenidos a el curriculum de obed loeza garduño",
+    "background_color": "#9F4393",
+    "theme_color": "#2E306C",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+      {
+        "src": "./img/l250.png",
+        "sizes": "250x250",
+        "type": "image/png"
+      },{
+        "src": "./img/l500.png",
+        "sizes": "500x500",
+        "type": "image/png"
+      },{
+        "src": "./img/l750.png",
+        "sizes": "750x750",
+        "type": "image/png"
+      },{
+        "src": "./img/l1000.png",
+        "sizes": "1000x1000",
+        "type": "image/png"
+      },{
+        "src": "./img/l1250.png",
+        "sizes": "1250x1250",
+        "type": "image/png"
+      },{
+        "src": "./img/l1500.png",
+        "sizes": "1500x1500",
+        "type": "image/png"
+      }
+    ]
+  }
